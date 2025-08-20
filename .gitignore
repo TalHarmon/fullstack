@@ -1,3 +1,4 @@
+# ***********
 # compiled output
 /dist
 /tmp
@@ -83,6 +84,7 @@ jspm_packages/
 
 # Lerna
 lerna-debug.log
+
 
 # System Files
 .DS_Store
